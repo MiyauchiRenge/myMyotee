@@ -1,6 +1,16 @@
 # myMyotee
 脸萌（FaceQ) Android简单demo
 
+### 编译环境
+
+Nexus 6.0.1 API23
+
+###应用截图
+
+<img src="https://raw.githubusercontent.com/Winky93/myMyotee/master/2.png" width = "473" height = "800" alt="图片名称" align=center />
+
+<img src="https://raw.githubusercontent.com/Winky93/myMyotee/master/1.png" width = "473" height = "800" alt="图片名称" align=center />
+
 ### myMyotee实现了哪些功能？
 
 * 脸萌的主界面布局，按键响应，声音 ，分享（待实现?)
