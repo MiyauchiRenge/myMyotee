@@ -5,7 +5,7 @@
 
 Nexus5 6.0.1 API23
 
-###应用截图
+### 应用截图
 
 <img src="https://raw.githubusercontent.com/Winky93/myMyotee/master/2.png" width = "473" height = "800" alt="图片名称" align=center />
 
@@ -20,12 +20,12 @@ Nexus5 6.0.1 API23
 * 有个Bug， ViewPage下的gridview组件'listselector'属性无法实现selected响应，但能实现pressed响应。
 
 
-###有问题反馈
+### 有问题反馈
 
 * 邮件: jxyouwei@gmail.com
 
 
-###使用的第三方开源库
+### 使用的第三方开源库
 
 * [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) /实现横向菜单导航
 * [Dialogplus](https://github.com/orhanobut/dialogplus)  /分享按钮
